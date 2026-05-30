@@ -1,6 +1,6 @@
 How to create a new repository on the command line:
 
-echo "# GitHubActions" >> README.md
+  echo "# GitHubActions" >> README.md
 
 git init
 
